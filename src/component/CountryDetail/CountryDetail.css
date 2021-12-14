@@ -1,0 +1,8 @@
+.singleCountryBox {
+  border: 3px solid pink;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  /* padding-left: 300px; */
+  text-align: center;
+}
